@@ -1,0 +1,21 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+form{
+    border: 2px solid red;
+    width: 400px;
+
+    text-align: center;
+    margin: auto;
+    background: url(./img/169082-priroda-derevo-vetv-voda-rastenie-550x310.jpg);
+    border-radius: 20px;
+}
+
+
+body{
+    background: url(./img/169082-priroda-derevo-vetv-voda-rastenie-550x310.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
