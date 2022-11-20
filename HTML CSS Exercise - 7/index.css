@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.will{
+    
+display:block;
+width:100%;
+background-color: red;
+color: #fff;
+}
