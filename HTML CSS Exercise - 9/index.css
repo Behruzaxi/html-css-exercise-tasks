@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.now{
+    border-radius: 8px;
+    background-color: #428bca;
+    color: white;
+    border-color: #428bca;
+  padding-top: 10px;
+  padding-bottom: 10px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
