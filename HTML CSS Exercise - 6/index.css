@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    display: flex;
+}
+
+.list_item{
+    text-decoration: none;
+    display: flex;
+}
+
+.lorem{
+    margin-top: 50px;
+}
