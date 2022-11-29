@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blue{
+    margin-top: 30px;
+    color: rgb(46, 242, 242);
+    margin-left: 30px;
+}
+
+.black{
+    margin-left: 30px;
+    color: rgb(44, 233, 233);
+}
